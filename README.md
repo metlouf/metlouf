@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Computer Science at Télécom Paris
 
-- 👀 I’m interested in Mathématics and Computer Science (Especially Computer Vision, Image and Signal Processing)
+- 👀 I’m interested in Mathematics and Computer Science (Especially Computer Vision, Image and Signal Processing)
 
 
 
