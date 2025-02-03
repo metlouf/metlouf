@@ -2,7 +2,7 @@
 
 - 📫 How to reach me mohamed.srir@telecom-paris.fr
 
-- 🌱 I’m currently learning Computer Science at Télécom Paris
+- 🌱 I’m currently learning Computer Science and Image Processing at Télécom Paris
 
 - 👀 I’m interested in Mathematics and Computer Science (Especially Computer Vision, Image and Signal Processing)
 
